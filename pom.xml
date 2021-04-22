@@ -139,7 +139,7 @@
       <dependency>
           <groupId>org.mybatis</groupId>
           <artifactId>mybatis</artifactId>
-          <version>3.4.6</version>
+          <version>3.5.6</version>
       </dependency>
 
       <!-- 整合spring 和 mybatis 需要依赖的包 -->
